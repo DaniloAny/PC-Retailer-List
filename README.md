@@ -434,7 +434,7 @@ Used marketplaces: <https://www.avito.ru/>
 
 Price Comparison: <https://www.itsvet.com/> *, <https://www.eponuda.com/> *, <https://www.shopmania.rs/>, <https://www.idealno.rs/>, <https://www.pametno.rs/>, <https://www.kudaukupovinu.rs/>, <https://www.goglasi.com/> *
 
-Stores: <https://www.kliklak.rs/>, <https://jakov.rs/>, <https://gigatron.rs/> *, <https://www.monitor.rs/>, <https://www.pinshop.rs/>, <https://www.novicomp.rs/>, <https://atom.rs/> *, <https://ananas.rs/>, <https://entechnology.rs/>
+Stores: <https://www.bcgroup-online.com/> <https://www.kliklak.rs/>, <https://jakov.rs/>, <https://gigatron.rs/> *, <https://www.monitor.rs/>, <https://www.pinshop.rs/>, <https://www.novicomp.rs/>, <https://atom.rs/> *, <https://ananas.rs/>, <https://entechnology.rs/>
 
 Used marketplaces: 
  
@@ -444,7 +444,7 @@ Price Comparison: <https://www.heureka.sk/> *
 
 Stores: <https://alza.sk/>, <https://www.tichepc.sk/>
 
-Used marketplaces: 
+Used marketplaces: <https://www.kupujemprodajem.com/>
  
 ## Slovenia
 
